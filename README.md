@@ -41,5 +41,5 @@ Markdown Tables:
 
 ---
 Made by **Esteban Márquez**.  
-Connect with me on [LinkedIn](www.linkedin.com/in/ing-esteban-marquez)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ing-esteban-marquez)  
 Feel free to connect or ask questions!

@@ -15,19 +15,11 @@ This project analyzes global COVID-19 data using publicly available datasets fro
 - Relationships between datasets based on *Province/State*, *Country/Region*, and *Date*.
 
 ## Key Features
-Top 10 Analysis:
-- Countries with the highest number of deaths.
-- Countries with the highest number of confirmed cases.
-Total Metrics:
-- Total confirmed cases.
-- Total deaths.
-- Total recoveries.
-Map Visualization:
-- A world map to explore global case distributions.
-Dynamic Filtering:
-- Visualize metrics by total values or filter data by specific years (2020, 2021, 2022, or 2023).
-Markdown Tables:
-- Present summarized metrics for easy interpretation.
+* Top 10 Analysis: Countries with the highest number of deaths. Countries with the highest number of confirmed cases.
+* Total Metrics: Total confirmed cases. Total deaths. Total recoveries.
+* Map Visualization: A world map to explore global case distributions.
+* Dynamic Filtering: Visualize metrics by total values or filter data by specific years (2020, 2021, 2022, or 2023).
+* Markdown Tables: Present summarized metrics for easy interpretation.
 
 ## How to Explore
 1. Download the Power BI file.
